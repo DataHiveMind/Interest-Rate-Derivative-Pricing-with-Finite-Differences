@@ -8,8 +8,6 @@ This project provides a framework for pricing interest rate derivatives using fi
 
 -   data/: Sample market data, yield curves, etc.
 
--   notebooks/: Jupyter notebooks for analysis, visualization, and examples.
-
 -   src/: Main source code.
 
     -   __init__.py: Makes the src directory a Python package.
